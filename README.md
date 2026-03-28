@@ -19,7 +19,7 @@ Diplômé d'un Master en Brand Design (spé. UI/UX) — Expert Figma & Référen
 | **Netflix Redesign** | Innovations UX : matching social, gamification | [Figma File](https://www.figma.com/proto/Z5h3slQprxCysaMZHQIivO/Netflix--sauvegarde-?page-id=0%3A1&node-id=1-803&viewport=81%2C184%2C0.22&t=uZFunUiQoLL5SbNJ-1&scaling=min-zoom&content-scaling=fixed) |
 | **DeviantArt Redesign** | Wireframe → Design System → UI light/dark | [Figma File](https://www.figma.com/proto/6eVwtn8e583leAVGljyqtk/Deviant-ART?page-id=152%3A16&node-id=152-17&viewport=728%2C477%2C0.14&t=QpYsXvVOMIjvDbX2-1&scaling=scale-down&content-scaling=fixed) |
 | **Wikipedia Redesign** | Modernisation complète, sidebar interactive | [Figma File](https://www.figma.com/proto/nWDqYXwHpKeUIEW8sVTP7U/Wikipedia-refont?page-id=0%3A1&node-id=118-3945&viewport=386%2C146%2C0.09&t=OjlIlPMTGYJgY8Yx-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=154%3A3412&show-proto-sidebar=1) |
-| **Systemic Pace** | Dossier UX complet — plateforme running | [Drive File]([https://www.figma.com/proto/Z5h3slQprxCysaMZHQIivO/Netflix--sauvegarde-?page-id=0%3A1&node-id=1-803&viewport=81%2C184%2C0.22&t=uZFunUiQoLL5SbNJ-1&scaling=min-zoom&content-scaling=fixed](https://drive.google.com/file/d/1UFN5ye0gKd-EUYnfcK3Ubhrtxc_ziPbP/view?usp=sharing)) |
+| **Systemic Pace** | Dossier UX complet — plateforme running | [Drive File](https://drive.google.com/file/d/1UFN5ye0gKd-EUYnfcK3Ubhrtxc_ziPbP/view?usp=sharing) |
 
 ## Outils
 
